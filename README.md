@@ -1,2 +1,2 @@
-# creative
-this is my first git repository
+# Creative
+This is my first Git Repository
